@@ -12,3 +12,7 @@ It is designed to be light-weight, up to data and intergrates into existing syte
 ## What is it built in? 
 
 It is built in NodeJS, whilst you can use the pre-population systems that are built into sVulnerable to populate your own datasets, there is also an existing dataset you can query if you need. 
+
+## Philosophy
+
+sVulnerable is designed to scalable, extensible and lightweight. It should be able to intergrate into any system with minimal effort.
